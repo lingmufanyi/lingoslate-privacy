@@ -1,0 +1,1 @@
+# lingoslate-privacy

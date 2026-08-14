@@ -25,7 +25,7 @@
 
 **六、儿童隐私:** 本扩展不面向 13 岁以下儿童收集任何信息(事实上它不收集任何人的信息)。
 
-**七、变更与联系:** 政策如有变更将更新本页面。联系方式:【lingoslate-privacy@outlook.com】
+**七、变更与联系:** 政策如有变更将更新本页面。联系方式:lingoslate-privacy@outlook.com
 
 ## English
 
@@ -46,4 +46,4 @@ LingoSlate Live Translator ("the Extension") does not collect, store, or transmi
 
 **6. Children's privacy:** The Extension collects no information from anyone, including children under 13.
 
-**7. Changes & contact:** Updates will be posted on this page. Contact: 【lingoslate-privacy@outlook.com】
+**7. Changes & contact:** Updates will be posted on this page. Contact: lingoslate-privacy@outlook.com
